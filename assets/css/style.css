@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #efefef;
+}
+
+#ball__game {
+    margin-top: 5rem;
+    border: 2px solid #333;
+    background-color: #ccc;
+}
